@@ -1,0 +1,427 @@
+club_id,club_code,club_name,domestic_competition_id,squad_size,average_age,foreigners_number,foreigners_percentage,national_team_players,stadium_name,stadium_seats,net_transfer_record,last_season
+105,sv-darmstadt-98,SV Darmstadt 98,L1,30,26.4,11,36.7,1,Merck-Stadion am Böllenfalltor,17500,€-1.60m,2023
+11127,ural-ekaterinburg,Ural Yekaterinburg,RU1,25,28.2,13,52,4,Yekaterinburg Arena,23000,€-770k,2023
+114,besiktas-istanbul,Besiktas JK,TR1,32,27.3,16,50,14,Tüpraş Stadyumu,42590,€-14.50m,2023
+12,as-rom,AS Roma,IT1,26,27.3,17,65.4,17,Olimpico di Roma,73261,+€65.20m,2023
+148,tottenham-hotspur,Tottenham Hotspur,GB1,29,26.1,21,72.4,22,Tottenham Hotspur Stadium,62062,€-130.40m,2023
+157,kaa-gent,KAA Gent,BE1,25,25.6,13,52,8,Ghelamco Arena,19999,+€2.52m,2023
+1894,hvidovre-if,Hvidovre IF,DK1,30,27,4,13.3,1,PRO VENTILATION Arena,12000,+€335k,2023
+190,fc-kopenhagen,FC Copenhagen,DK1,27,25.6,14,51.9,9,Parken,38065,+€9.63m,2023
+192,roda-jc-kerkrade,Roda JC Kerkrade,NL1,25,24,9,36,0,Parkstad Limburg Stadion,19979,+€1.30m,2017
+19789,yeni-malatyaspor,Yeni Malatyaspor,TR1,10,22.9,1,10,0,Yeni Malatya Stadyumu,25745,+€778k,2021
+2079,veria-nps,Veria NPS,GR1,29,24.3,4,13.8,0,Dimotiko Stadio Verias,6350,0,2016
+21957,ao-platanias,AO Platanias,GR1,0,,0,,0,Dimotiko Gipedo Perivolia,3700,0,2017
+2414,ac-horsens,AC Horsens,DK1,19,25.1,9,47.4,4,Nordstern Arena Horsens,10400,0,2022
+2457,belenenses-sad,B SAD,PO1,25,24.2,13,52,4,Estádio Nacional do Jamor,37593,+€1.80m,2021
+2578,st-johnstone-fc,St. Johnstone FC,SC1,28,26.8,16,57.1,4,McDiarmid Park,10696,0,2023
+2727,oud-heverlee-leuven,Oud-Heverlee Leuven,BE1,27,24.8,16,59.3,3,King Power at Den Dreef Stadion,10020,0,2023
+28643,waasland-beveren,SK Beveren,BE1,27,26.8,16,59.3,3,Freethielstadion,13290,€-350k,2020
+2990,academica-coimbra,Académica Coimbra,PO1,26,25.2,6,23.1,0,Estádio Cidade de Coimbra,29744,+€150k,2015
+3057,standard-luttich,Standard Liège,BE1,26,24.5,16,61.5,10,Maurice Dufrasne Stadion,27670,+€1.30m,2023
+3690,ska-khabarovsk,SKA Khabarovsk,RU1,27,25.7,4,14.8,0,Lenin Stadion,15200,€-93k,2017
+4795,fc-ingolstadt-04,FC Ingolstadt 04,L1,28,24.3,8,28.6,1,Audi Sportpark,15800,+€1.55m,2016
+511,dundee-fc,Dundee FC,SC1,24,25.9,13,54.2,3,Kilmac Stadium at Dens Park,11850,0,2023
+5358,sd-huesca,SD Huesca,ES1,24,27.5,8,33.3,2,El Alcoraz,9128,+€1.43m,2020
+603,cardiff-city,Cardiff City,GB1,28,25.5,24,85.7,8,Cardiff City Stadium,33280,€-655k,2018
+60551,sk-dnipro-1,SK Dnipro-1,UKR1,26,27.2,4,15.4,4,Dnipro-Arena,31003,+€5.62m,2023
+6996,goverla-uzhgorod,Goverla Uzhgorod (- 2016),UKR1,0,,0,,0,Avangard,10640,0,2015
+8024,fc-arouca,FC Arouca,PO1,28,25.9,21,75,1,Estádio Municipal de Arouca,5600,+€5.24m,2023
+868,mke-ankaragucu,MKE Ankaragücü,TR1,28,27.2,17,60.7,6,Eryaman Stadyumu,20560,€-3.35m,2023
+903,hibernian-fc,Hibernian FC,SC1,24,27.4,19,79.2,5,Easter Road Stadium,20250,+€510k,2023
+969,montpellier-hsc,Montpellier HSC,FR1,23,25.7,12,52.2,6,Stade de la Mosson,32939,+€31.80m,2023
+989,afc-bournemouth,AFC Bournemouth,GB1,29,26.4,20,69,14,Vitality Stadium,11329,€-126.19m,2023
+993,fc-cordoba,Córdoba CF,ES1,24,27.9,4,16.7,0,Nuevo Arcángel,21822,0,2014
+1025,fc-bologna,Bologna FC 1909,IT1,26,25.2,18,69.2,13,Stadio Renato Dall’Ara,36462,€-18.50m,2023
+1082,losc-lille,LOSC Lille,FR1,24,26,17,70.8,6,Decathlon Arena-Stade Pierre-Mauroy,50186,+€6.10m,2023
+1160,nimes-olympique,Nîmes Olympique,FR1,26,25.4,12,46.2,3,Stade des Antonins,8033,+€2.50m,2020
+11688,giresunspor,Giresunspor,TR1,17,22.5,1,5.9,1,Çotanak Spor Kompleksi,21500,0,2022
+124,glasgow-rangers,Rangers FC,SC1,29,27.6,21,72.4,9,Ibrox Stadium,50987,€-2.85m,2023
+1465,gd-estoril-praia,GD Estoril Praia,PO1,29,24.8,17,58.6,2,Estádio António Coimbra da Mota,8000,+€8.00m,2023
+2477,karpaty-lviv,Karpaty Lviv (-2021),UKR1,0,,0,,0,Stadion Ukraina,28051,0,2019
+2553,kilmarnock-fc,Kilmarnock FC,SC1,23,25.8,11,47.8,2,"BBSP Stadium, Rugby Park",18128,0,2023
+2672,apo-levadiakos,APO Levadiakos,GR1,31,27.5,17,58.6,0,Stadio Livadias,5915,0,2022
+2740,vorskla-poltava,Vorskla Poltava,UKR1,25,24.7,8,32,1,Vorskla im. Oleksiy Butovskyi,23842,+€900k,2023
+3008,hull-city,Hull City,GB1,28,25,17,60.7,6,MKM Stadium,25586,+€7.50m,2016
+31,fc-liverpool,Liverpool FC,GB1,26,26.1,21,80.8,17,Anfield,54074,€-111.30m,2023
+336,sporting-lissabon,Sporting CP,PO1,27,25,13,48.1,8,Estádio José Alvalade XXI,50095,+€69.50m,2023
+3911,stade-brest-29,Stade Brestois 29,FR1,25,26,7,28,4,Stade Francis-Le Blé,15220,+€5.10m,2023
+4,1-fc-nurnberg,1.FC Nuremberg,L1,33,25.2,7,21.2,2,Max-Morlock-Stadion,50000,+€2.63m,2018
+410,udinese-calcio,Udinese Calcio,IT1,36,25,31,86.1,8,Bluenergy Stadium,25144,+€5.56m,2023
+41231,fk-sochi,FC Sochi,RU1,27,26.9,11,40.7,2,Fisht Olympic Stadium,45994,+€3.05m,2023
+4128,amkar-perm,Amkar Perm,RU1,26,26,0,,0,Zvezda,17000,0,2017
+449,trabzonspor,Trabzonspor,TR1,32,25.8,16,50,15,Papara Park,40782,€-13.11m,2023
+4603,ae-larisa,AE Larisa,GR1,28,24.2,6,21.4,0,Stadio Alkazar,13108,0,2020
+55686,metalist-1925-kharkiv,Metalist 1925 Kharkiv,UKR1,29,26.4,3,10.3,0,Livyi Bereg Arena,4700,€-175k,2023
+566,beerschot-ac,Beerschot AC,BE1,0,,0,,0,Olympisch Stadion,12771,0,2012
+595,sc-bastia,SC Bastia,FR1,25,27.6,8,32,6,Stade Armand-Cesari,16480,+€480k,2016
+6890,istanbul-basaksehir-fk,Basaksehir FK,TR1,34,26,16,47.1,10,Başakşehir Fatih Terim,17156,0,2023
+7185,panthrakikos-komotini,Panthrakikos Komotini,GR1,29,24.3,3,10.3,0,Stadio Komotinis OPAP,5601,0,2015
+83678,metal-kharkiv,Metalist Kharkiv,UKR1,25,26.1,7,28,0,Avangard,10640,+€300k,2022
+932,lokomotiv-moskau,Lokomotiv Moscow,RU1,27,24.5,3,11.1,9,RZD Arena,27084,+€3.48m,2023
+1010,fc-watford,Watford FC,GB1,30,26.3,24,80,12,Vicarage Road,21577,+€42.02m,2021
+1108,deportivo-alaves,Deportivo Alavés,ES1,23,25.7,9,39.1,3,Mendizorroza,19840,€-6.30m,2023
+1124,fakel-voronezh,Fakel Voronezh,RU1,25,28.4,3,12,1,Central Stadium of Profsoyuzes,21793,€-30k,2023
+1158,fc-lorient,FC Lorient,FR1,30,25.1,14,46.7,10,Stade du Moustoir,19010,+€37.70m,2023
+1177,silkeborg-if,Silkeborg IF,DK1,25,23.9,5,20,4,JYSK Park,10000,+€2.50m,2023
+13,atletico-madrid,Atlético de Madrid,ES1,24,29.2,14,58.3,14,Civitas Metropolitano,67829,+€57.30m,2023
+131,fc-barcelona,FC Barcelona,ES1,22,26.3,10,45.5,16,Olímpic Lluís Companys,55926,+€102.00m,2023
+133,sc-cambuur-leeuwarden,SC Cambuur Leeuwarden,NL1,16,23.1,4,25,3,Cambuurstadion,10250,0,2022
+141,galatasaray-istanbul,Galatasaray,TR1,30,25.8,16,53.3,14,Ali Sami Yen Spor Kompleksi RAMS Park,52223,€-11.79m,2023
+1411,raec-mons,RAEC Mons (- 2015),BE1,0,,0,,0,Stade Charles Tondreau,12662,0,2013
+169,panionios-athen,Panionios Athens,GR1,34,23.5,4,11.8,0,Stadio Neas Smyrnis,11700,0,2019
+18,borussia-monchengladbach,Borussia Mönchengladbach,L1,31,25.7,17,54.8,8,Stadion im Borussia-Park,54042,€-4.28m,2023
+18105,pfk-lviv,PFK Lviv,UKR1,3,18.3,0,,0,Stadion SKIF,3742,0,2022
+2036,1-fc-heidenheim-1846,1.FC Heidenheim 1846,L1,28,26.2,5,17.9,1,Voith-Arena,15000,€-2.30m,2023
+273,fc-stade-rennes,Stade Rennais FC,FR1,25,24.6,10,40,7,Roazhon Park,29778,+€85.60m,2023
+3325,gd-chaves,GD Chaves,PO1,28,26.4,15,53.6,4,Estádio Municipal Eng.º Manuel Branco Teixeira,9000,+€450k,2023
+3327,fc-penafiel,FC Penafiel,PO1,28,27.9,4,14.3,0,Estádio Municipal 25 de Abril,5230,0,2014
+366,real-valladolid,Real Valladolid CF,ES1,22,27.2,11,50,6,Nuevo José Zorrilla,27618,+€2.50m,2022
+4294,sc-farense,SC Farense,PO1,28,28,15,53.6,2,Estádio São Luís,7000,0,2023
+458,palermo-fc,Palermo FC,IT1,28,25.6,7,25,4,"Comunale Renzo Barbera ""La Favorita""",36365,€-7.94m,2016
+46,inter-mailand,Inter Milan,IT1,25,28.9,16,64,19,Giuseppe Meazza,75923,+€65.20m,2023
+5220,gs-ergotelis,GS Ergotelis,GR1,3,23.3,0,,0,Pankritio Stadio,25780,0,2014
+5572,niki-volou,Niki Volou,GR1,26,27.2,7,26.9,2,Panthessaliko Stadio,22700,0,2014
+5817,sonderjyske,SönderjyskE,DK1,30,24,9,30,1,Sydbank Park,10000,+€1.80m,2021
+605,aris-thessaloniki,Aris Thessaloniki,GR1,29,29,24,82.8,3,"Gipedo ""Kleanthis Vikelidis""",22800,+€7.05m,2023
+995,fc-nantes,FC Nantes,FR1,28,25.9,15,53.6,8,Stade de la Beaujoire,37463,€-450k,2023
+1003,leicester-city,Leicester City,GB1,25,27.1,14,56,11,King Power Stadium,32273,+€26.00m,2022
+1237,brighton-amp-hove-albion,Brighton & Hove Albion,GB1,26,26.2,19,73.1,14,AMEX Stadium,31800,+€94.70m,2023
+1436,sc-beira-mar,SC Beira-Mar,PO1,26,26.6,8,30.8,0,Estádio Municipal de Aveiro,32830,0,2012
+1455,fc-dordrecht,FC Dordrecht,NL1,29,23.3,12,41.4,1,Matchoholic Stadion,4235,0,2014
+14589,fk-orenburg,FK Orenburg,RU1,28,25.6,14,50,7,Gazovik,10046,€-3.40m,2023
+1519,dundee-united-fc,Dundee United FC,SC1,25,24.7,8,34.8,2,Tannadice Park,14223,+€350k,2022
+16239,desna-chernigiv,Desna Chernigiv,UKR1,0,,0,,0,Stadion im. Yuriya Gagarina,12060,0,2021
+173,odense-boldklub,Odense Boldklub,DK1,26,24.8,14,53.8,6,Nature Energy Park,15790,+€9.59m,2023
+200,fc-utrecht,FC Utrecht,NL1,27,25.4,14,51.9,3,"Stadion ""Galgenwaard""",23750,+€8.65m,2023
+206,brondby-if,Bröndby IF,DK1,24,25.8,11,45.8,4,Brøndby Stadion,28000,+€3.61m,2023
+2715,rfc-seraing,RFC Seraing,BE1,22,23.5,13,59.1,2,Stade du Paray,6744,+€400k,2022
+28956,ael-kalloni,AEL Kalloni,GR1,0,,0,,0,Stadio Mytilinis,4000,0,2015
+2969,dijon-fco,Dijon FCO,FR1,29,25.8,14,48.3,4,Stade Gaston-Gérard,16098,+€1.50m,2020
+2995,fc-pacos-de-ferreira,FC Paços de Ferreira,PO1,32,25.5,17,50,1,Estádio Capital do Móvel,9076,0,2022
+3426,esbjerg-fb,Esbjerg fB,DK1,27,22.7,10,37,2,Blue Water Arena,16942,0,2019
+3522,spezia-calcio,Spezia Calcio,IT1,32,24.4,25,78.1,11,Alberto Picco,11676,€-3.95m,2022
+3609,rotor-volgograd,Rotor Volgograd,RU1,27,23.9,2,7.4,0,Volgograd Arena,45568,€-13k,2020
+39097,fk-obolon-kiew,FK Obolon Kyiv,UKR1,23,27.3,1,4.3,0,Obolon-Arena,5103,€-80k,2023
+39722,buyuksehir-belediye-erzurumspor,Erzurumspor FK,TR1,28,26.1,7,25,1,Erzurum Kazım Karabekir,23700,+€70k,2020
+40,fc-girondins-bordeaux,FC Girondins Bordeaux,FR1,26,22.7,13,50,6,Matmut Atlantique,42115,+€12.70m,2021
+41274,beerschot-v-a-,Beerschot V.A.,BE1,26,23.9,12,46.2,2,Olympisch Stadion,12771,+€395k,2021
+43,heart-of-midlothian-fc,Heart of Midlothian FC,SC1,28,26.6,16,57.1,7,Tynecastle Park,19852,+€150k,2023
+47,iraklis-thessaloniki,Iraklis Thessaloniki,GR1,27,24.3,9,33.3,0,Kaftanzoglio Stadio,27770,0,2016
+4750,sc-olhanense,SC Olhanense,PO1,10,23.4,5,50,0,Estádio José Arcanjo,10080,0,2013
+589,antalyaspor,Antalyaspor,TR1,34,26.4,15,44.1,5,Corendon Airlines Park Antalya Stadı,32537,+€9.43m,2023
+6,adanaspor,Adanaspor,TR1,10,23.9,4,40,0,Yeni Adana Stadyumu,33000,0,2016
+6195,ssc-neapel,SSC Napoli,IT1,27,26.4,17,63,16,Stadio Diego Armando Maradona,54726,€-26.50m,2023
+82,vfl-wolfsburg,VfL Wolfsburg,L1,29,24.7,19,65.5,12,Volkswagen Arena,28917,€-400k,2023
+1050,fc-villarreal,Villarreal CF,ES1,24,29,8,33.3,7,La Cerámica,23500,+€97.00m,2023
+1096,royal-antwerpen-fc,Royal Antwerp FC,BE1,28,25,14,50,4,De Bosuil,16144,+€11.35m,2023
+1147,ac-ajaccio,AC Ajaccio,FR1,24,27.5,11,45.8,6,Stade François-Coty,10446,0,2022
+130,parma-calcio-1913,Parma Calcio 1913,IT1,30,24.9,23,76.7,6,Ennio Tardini,22352,€-4.37m,2020
+1429,cesena-fc,Cesena FC,IT1,28,26,4,14.3,0,Orogel Stadium - Dino Manuzzi,23860,+€335k,2014
+15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,27,24.7,21,77.8,18,BayArena,30210,€-12.10m,2023
+16247,pfk-stal-kamyanske,PFK Stal Kamyanske (-2018),UKR1,0,,0,,0,Obolon,5100,0,2017
+20100,fc-vestsjaelland,FC Vestsjaelland,DK1,0,,0,,0,Harboe Arena,10000,0,2014
+20698,balikesirspor,Balikesirspor,TR1,22,22,1,4.5,0,Balıkesir Atatürk,15800,0,2014
+2323,orduspor,Orduspor,TR1,3,20,0,,0,19 Eylül Stadyum,11024,0,2012
+2722,spal,SPAL,IT1,32,26,8,25,2,Paolo Mazza,16134,+€2.75m,2019
+276,hellas-verona,Hellas Verona,IT1,33,25.8,22,66.7,8,Marcantonio Bentegodi,39211,+€43.46m,2023
+3329,fc-famalicao,FC Famalicão,PO1,27,23.8,19,70.4,4,Estádio Municipal de Famalicão,5305,+€10.80m,2023
+3691,tom-tomsk,Tom Tomsk,RU1,0,,0,,0,Trud,10028,0,2016
+370,aberdeen-fc,Aberdeen FC,SC1,26,25.4,18,69.2,5,Pittodrie Stadium,22199,+€2.37m,2023
+475,vv-st-truiden,Sint-Truidense VV,BE1,29,23.8,13,44.8,4,Daio Wasabi Stayen Stadium,14600,€-60k,2023
+49364,ingulets-petrove,Ingulets Petrove,UKR1,23,25.7,2,8.3,0,Stadion Ingulets,1720,+€100k,2022
+498,ksc-lokeren,KSC Lokeren (- 2020),BE1,0,,0,,0,Daknamstadion,12000,0,2018
+524,gaziantepspor,Gaziantepspor (- 2020),TR1,0,,0,,0,Gaziantep Stadyumu,33502,0,2016
+553,ionikos-nikeas,Ionikos Nikeas,GR1,17,28.4,11,64.7,0,Dimotiko Gipedo Neapolis,5500,0,2022
+642,de-graafschap-doetinchem,De Graafschap Doetinchem,NL1,30,23.7,6,20,0,"Stadion ""De Vijverberg""",12600,0,2018
+6676,asteras-tripolis,Asteras Tripolis,GR1,29,26.7,17,58.6,1,Gipedo Theodoros Kolokotronis,7423,+€100k,2023
+703,nottingham-forest,Nottingham Forest,GB1,32,27,27,84.4,20,The City Ground,30445,€-57.23m,2023
+80,vfl-bochum,VfL Bochum,L1,30,27.6,14,46.7,3,Vonovia Ruhrstadion,26000,€-2.45m,2023
+976,cf-uniao-madeira,CF União Madeira (-2021),PO1,0,,0,,0,Centro Desportivo da Madeira,2500,0,2015
+1031,luton-town,Luton Town,GB1,26,27.8,12,46.2,8,Kenilworth Road,10226,€-22.75m,2023
+1071,wigan-athletic,Wigan Athletic,GB1,26,24,8,30.8,2,DW Stadium,25133,+€290k,2012
+1090,az-alkmaar,AZ Alkmaar,NL1,29,23.5,10,34.5,4,AFAS Stadion,19478,+€48.17m,2023
+1110,huddersfield-town,Huddersfield Town,GB1,33,26.7,12,36.4,3,John Smith's Stadium,24500,+€11.28m,2018
+11126,mordovia-saransk,Mordovia Saransk (-2020),RU1,0,,0,,0,Mordovia Arena,44442,0,2015
+1159,as-nancy-lorraine,AS Nancy-Lorraine,FR1,27,25.7,5,18.5,0,Stade Marcel-Picot,20087,0,2016
+12438,volga-nizhniy-novgorod,Volga Nizhniy Novgorod (- 2016),RU1,0,,0,,0,Zentralstadion Lokomotiv,17856,0,2013
+1301,cs-maritimo,CS Marítimo,PO1,29,27.2,19,65.5,2,Estádio do Marítimo,10600,+€200k,2022
+1304,heracles-almelo,Heracles Almelo,NL1,30,24.2,14,46.7,1,Erve Asito,12080,0,2023
+1421,stade-reims,Stade Reims,FR1,24,25.1,18,75,11,Stade Auguste-Delaune,21684,+€10.55m,2023
+1423,fc-valenciennes,Valenciennes FC,FR1,30,23.6,15,50,5,Stade du Hainaut,25000,+€2.52m,2013
+162,as-monaco,AS Monaco,FR1,27,24.2,27,100,15,Stade Louis-II,17000,€-26.50m,2023
+20,bursaspor,Bursaspor,TR1,26,21.4,0,,0,Bursa Büyükşehir Belediye Stadyumu,43361,0,2018
+235,rkc-waalwijk,RKC Waalwijk,NL1,27,25.6,13,48.1,3,Mandemakers Stadion,7508,0,2023
+24,eintracht-frankfurt,Eintracht Frankfurt,L1,36,24.5,21,58.3,9,Deutsche Bank Park,55000,+€85.85m,2023
+2441,aek-athen,AEK Athens,GR1,32,28,23,71.9,15,OPAP Arena,32500,€-9.35m,2023
+2861,kv-oostende,KV Oostende,BE1,26,23.3,14,50,2,Diaz Arena,8432,0,2022
+294,benfica-lissabon,SL Benfica,PO1,25,25.7,15,60,11,Estádio da Luz,64642,€-49.42m,2023
+3060,atromitos-athen,Atromitos Athens,GR1,30,26.3,16,53.3,5,Stadio Peristeriou,9050,0,2023
+331,ca-osasuna,CA Osasuna,ES1,24,28.3,4,16.7,3,El Sadar,23576,€-6.50m,2023
+3336,desportivo-aves,Desportivo Aves (- 2020),PO1,0,,0,,0,Estádio CD das Aves,5441,0,2019
+3709,fc-getafe,Getafe CF,ES1,23,28.1,13,56.5,6,Coliseum,16800,€-5.00m,2023
+383,psv-eindhoven,PSV Eindhoven,NL1,27,25.2,14,51.9,10,Philips Stadion,35000,€-3.53m,2023
+499,vitesse-arnheim,Vitesse Arnhem,NL1,27,23.7,11,40.7,5,GelreDome,21248,+€750k,2023
+610,ajax-amsterdam,Ajax Amsterdam,NL1,27,23.5,15,55.6,12,Johan Cruijff ArenA,55600,+€47.10m,2023
+6414,metalist-kharkiv,Metalist Kharkiv (- 2016),UKR1,0,,0,,0,OSK Metalist,38685,0,2015
+6993,fk-mariupol,FK Mariupol,UKR1,0,,0,,0,Stadion im. Volodymyra Boyko,12680,+€100k,2021
+750,fc-sochaux-montbeliard,FC Sochaux-Montbéliard,FR1,29,23,9,31,1,Stade Auguste-Bonal,20005,+€6.30m,2013
+762,newcastle-united,Newcastle United,GB1,29,27.6,14,48.3,12,St James' Park,52338,€-108.60m,2023
+825,eskisehirspor,Eskisehirspor,TR1,41,23.9,1,2.4,0,Eskişehir Yeni Stadyum,34930,0,2015
+1041,olympique-lyon,Olympique Lyon,FR1,28,25,16,57.1,5,Groupama Stadium,59186,+€87.87m,2023
+10690,zorya-lugansk,Zorya Lugansk,UKR1,31,23.8,5,16.1,2,Livyi Bereg Arena,4700,+€1.75m,2023
+1084,fc-malaga,Málaga CF,ES1,27,27.9,8,29.6,0,La Rosaleda,30044,+€950k,2017
+1148,fc-brentford,Brentford FC,GB1,29,26,20,69,16,Gtech Community Stadium,17250,€-54.76m,2023
+1162,sm-caen,SM Caen,FR1,27,25.7,12,44.4,4,Stade Michel-d'Ornano,20500,+€3.05m,2018
+1184,krc-genk,KRC Genk,BE1,26,23.4,18,69.2,10,Cegeka Arena,24956,€-13.75m,2023
+1186,torpedo-moskau,Torpedo Moscow,RU1,28,25.6,6,23.1,3,Luzhniki Stadium,81000,€-2.05m,2022
+128,ao-xanthi,AO Xanthi,GR1,0,,0,,0,Xanthi Arena,7361,0,2019
+1283,fc-emmen,FC Emmen,NL1,17,25.6,6,35.3,0,De Oude Meerdijk,8309,0,2022
+142,real-saragossa,Real Zaragoza,ES1,23,26,6,26.1,1,La Romareda,33608,+€30k,2012
+16,borussia-dortmund,Borussia Dortmund,L1,28,26,13,46.4,19,SIGNAL IDUNA PARK,81365,+€50.35m,2023
+202,fc-groningen,FC Groningen,NL1,29,22.9,10,34.5,1,Euroborg,22555,€-586k,2022
+2288,swansea-city,Swansea City,GB1,22,24.8,17,77.3,4,Swansea.com Stadium,21088,+€8.35m,2017
+237,rcd-mallorca,RCD Mallorca,ES1,23,28.7,10,43.5,5,Mallorca Son Moix,20500,€-2.30m,2023
+2381,sivasspor,Sivasspor,TR1,28,29,13,46.4,4,Yeni 4 Eylül Stadı,27532,+€400k,2023
+2423,cd-santa-clara,CD Santa Clara,PO1,38,25.4,20,52.6,2,Estádio de São Miguel,12500,0,2022
+2425,rio-ave-fc,Rio Ave FC,PO1,25,27.8,11,44,0,Estádio dos Arcos,5300,0,2023
+2451,inverness-caledonian-thistle-fc,Inverness Caledonian Thistle FC,SC1,26,24.5,9,34.6,0,Tulloch Caledonian Stadium,7750,0,2016
+265,panathinaikos-athen,Panathinaikos Athens,GR1,29,29,23,79.3,11,Apostolos Nikolaidis,15000,€-7.00m,2023
+2832,gaziantep-fk,Gaziantep FK,TR1,31,27.3,15,48.4,5,Kalyon Stadyumu,33502,€-585k,2023
+3558,gfc-ajaccio,GFC Ajaccio,FR1,5,26.8,1,20,1,Stade Ange-Casanova,4050,0,2015
+4102,carpi-fc-1909,AC Carpi,IT1,25,23.6,6,24,1,Sandro Cabassi,5510,0,2015
+42,hannover-96,Hannover 96,L1,28,25,6,21.4,1,Heinz-von-Heiden-Arena,49000,€-300k,2018
+641,fc-middlesbrough,Middlesbrough FC,GB1,25,26.1,8,32,6,Riverside Stadium,33746,+€16.68m,2016
+667,rc-strassburg-alsace,RC Strasbourg Alsace,FR1,27,24.8,14,51.9,9,Stade de la Meinau,26109,€-23.00m,2023
+681,real-sociedad-san-sebastian,Real Sociedad,ES1,26,25.3,7,26.9,10,Reale Arena,39313,€-10.60m,2023
+873,crystal-palace,Crystal Palace,GB1,27,26.4,12,44.4,8,Selhurst Park,26047,€-38.70m,2023
+1032,fc-reading,Reading FC,GB1,30,23.1,14,46.7,5,Select Car Leasing Stadium,24161,+€3.06m,2012
+1039,queens-park-rangers,Queens Park Rangers,GB1,26,25.9,15,57.7,8,Loftus Road Stadium,18360,+€900k,2014
+1244,cd-leganes,CD Leganés,ES1,23,28.6,8,34.8,3,Butarque,12454,+€1.00m,2019
+14171,thonon-evian-grand-geneve-fc,Thonon Évian Grand Genève FC,FR1,27,27.4,6,22.2,1,Stade Camille Fournier,2500,0,2014
+16704,fk-krasnodar,FK Krasnodar,RU1,23,25,13,56.5,11,Stadion Krasnodar,35179,€-1.63m,2023
+19771,akhisarspor,Akhisarspor,TR1,14,21,0,,0,Spor Toto Akhisar Stadyumu,12139,+€5k,2018
+244,olympique-marseille,Olympique Marseille,FR1,25,25.9,20,80,16,Orange Vélodrome,67394,€-30.60m,2023
+29228,royal-excel-mouscron,Royal Excel Mouscron (-2022),BE1,0,,0,,0,Le Canonnier,10830,+€40k,2020
+3216,mersin-idmanyurdu,Mersin Talimyurdu SK,TR1,0,,0,,0,Mersin Stadyumu,25000,0,2015
+3508,sv-zulte-waregem,SV Zulte Waregem,BE1,25,25.2,13,52,3,Elindus Arena,12250,+€4.00m,2022
+354,kv-mechelen,KV Mechelen,BE1,27,24.7,9,33.3,2,AFAS Stadion,16672,€-900k,2023
+367,rayo-vallecano,Rayo Vallecano,ES1,24,29.2,11,45.8,6,Campo de Fútbol de Vallecas,15105,€-11.60m,2023
+379,west-ham-united,West Ham United,GB1,25,28.3,18,72,14,London Stadium,62500,+€18.84m,2023
+380,us-salernitana-1919,US Salernitana 1919,IT1,27,27,21,77.8,11,Arechi,29739,€-24.69m,2023
+403,willem-ii-tilburg,Willem II Tilburg,NL1,27,25.9,7,25.9,0,Koning Willem II Stadion,14700,+€385k,2021
+40426,fk-tosno,FC Tosno (-2018),RU1,0,,0,,0,Petrovsky,20985,0,2017
+41,hamburger-sv,Hamburger SV,L1,30,23.6,15,50,4,Volksparkstadion,57000,€-6.00m,2017
+443,vejle-boldklub,Vejle Boldklub,DK1,24,26.1,17,70.8,4,Vejle Stadion,10418,0,2023
+5724,randers-fc,Randers FC,DK1,28,25.3,13,46.4,2,Cepheus Park Randers,10300,+€950k,2023
+601,kv-kortrijk,KV Kortrijk,BE1,29,24.7,19,65.5,6,Guldensporenstadion,9399,+€6.00m,2023
+79,vfb-stuttgart,VfB Stuttgart,L1,29,24,11,37.9,6,MHPArena Stuttgart,60449,+€27.55m,2023
+86,sv-werder-bremen,SV Werder Bremen,L1,24,26.9,10,41.7,6,Wohninvest-Weserstadion,42100,+€20.81m,2023
+931,fc-fulham,Fulham FC,GB1,26,27.9,24,92.3,14,Craven Cottage,25700,€-15.87m,2023
+964,zenit-st-petersburg,Zenit St. Petersburg,RU1,25,26.8,12,48,8,Gazprom Arena,63026,+€35.12m,2023
+1123,norwich-city,Norwich City,GB1,25,26,17,68,12,Carrow Road,27244,€-10.33m,2021
+1268,ado-den-haag,ADO Den Haag,NL1,34,23.5,9,26.5,4,Bingoal Stadion,15000,0,2020
+1506,kardemir-karabukspor,Kardemir Karabükspor,TR1,0,,0,,0,Dr. Necmettin Şeyhoğlu,12400,0,2017
+1531,fc-elche,Elche CF,ES1,18,27.3,5,27.8,0,Manuel Martínez Valero,31388,+€1.00m,2022
+2282,fc-brugge,Club Brugge KV,BE1,29,24.7,18,62.1,9,Jan-Breydel-Stadion,29062,+€21.85m,2023
+2293,konyaspor,Konyaspor,TR1,29,27.1,12,41.4,4,Medaş Konya Büyükşehir Stadyumu,42000,+€1.80m,2023
+23611,olimpik-donetsk,Olimpik Donetsk,UKR1,0,,0,,0,NTK im. B. M. Bannikova,1678,0,2020
+2431,cf-estrela-amadora-sad,CF Estrela Amadora SAD,PO1,27,26.9,19,70.4,3,Estádio José Gomes,9288,0,2023
+2698,rubin-kazan,Rubin Kazan,RU1,31,26.7,14,45.2,6,Ak Bars Arena,45379,€-6.81m,2023
+2760,partick-thistle-fc,Partick Thistle FC,SC1,19,27.9,1,5.3,0,The Energy Check Stadium at Firhill,10102,0,2017
+2944,ankaraspor,Ankaraspor,TR1,30,23.8,1,3.3,0,Osmanlı Stadı,19626,0,2017
+36,fenerbahce-istanbul,Fenerbahce,TR1,29,27.7,16,55.2,16,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,47834,€-1.36m,2023
+385,fortuna-sittard,Fortuna Sittard,NL1,24,25.5,17,70.8,3,Fortuna Sittard Stadion,12500,€-500k,2023
+468,sparta-rotterdam,Sparta Rotterdam,NL1,24,25,13,54.2,4,Sparta-stadion - Het Kasteel,11026,€-650k,2023
+583,fc-paris-saint-germain,Paris Saint-Germain,FR1,29,25.7,17,58.6,19,Parc des Princes,49691,€-146.50m,2023
+621,athletic-bilbao,Athletic Bilbao,ES1,25,27.7,1,4,4,San Mamés,53289,0,2023
+65,spvgg-greuther-furth,SpVgg Greuther Fürth,L1,28,24,11,39.3,2,Sportpark Ronhof | Thomas Sommer,16626,+€3.97m,2021
+6646,fatih-karagumruk,Fatih Karagümrük,TR1,28,27.3,16,57.1,6,Atatürk Olimpiyat,74753,+€2.50m,2023
+683,olympiakos-piraus,Olympiacos Piraeus,GR1,32,26.9,23,71.9,9,Stadio Georgios Karaiskakis,32115,+€8.07m,2023
+723,almere-city-fc,Almere City FC,NL1,27,25.2,14,51.9,1,Yanmar Stadion,4500,0,2023
+855,ea-guingamp,EA Guingamp,FR1,27,25.4,7,25.9,1,Stade du Roudourou,18120,+€3.70m,2018
+924,istanbulspor,Istanbulspor,TR1,30,25.9,14,46.7,5,Esenyurt Necmi Kadıoğlu Stadyumu,7500,€-400k,2023
+968,kvc-westerlo,KVC Westerlo,BE1,31,24.9,19,61.3,6,Het Kuipje,8035,€-16.04m,2023
+985,manchester-united,Manchester United,GB1,31,26.3,22,71,22,Old Trafford,74879,€-149.06m,2023
+11282,alanyaspor,Alanyaspor,TR1,29,25.8,13,44.8,5,Kırbıyık Holding Stadyumu,10128,+€800k,2023
+1132,fc-burnley,Burnley FC,GB1,33,25,25,75.8,15,Turf Moor,21994,€-107.25m,2023
+1435,go-ahead-eagles-deventer,Go Ahead Eagles,NL1,27,24.6,10,37,2,De Adelaarshorst,9909,€-850k,2023
+150,real-betis-sevilla,Real Betis Balompié,ES1,26,28.4,14,53.8,7,Benito Villamarín,60721,+€43.50m,2023
+152,samsunspor,Samsunspor,TR1,31,26.8,15,48.4,4,Samsun Yeni 19 Mayıs Stadyumu,33919,€-3.85m,2023
+172,rsc-charleroi,RSC Charleroi,BE1,30,24.8,20,66.7,8,Stade du Pays de Charleroi,15000,+€850k,2023
+18303,fk-oleksandriya,FK Oleksandriya,UKR1,28,23.8,3,10.7,1,KSK Nika,7000,+€1.32m,2023
+2410,zska-moskau,CSKA Moscow,RU1,24,24.8,8,33.3,7,VEB Arena,30114,+€1.70m,2023
+2503,boavista-porto-fc,Boavista FC,PO1,28,24.6,14,50,4,Estádio do Bessa Século XXI,28263,€-2.60m,2023
+26459,nk-veres-rivne,NK Veres Rivne,UKR1,25,27.6,2,8,0,Stadion Avangard (2022),7122,0,2023
+2671,pas-giannina,PAS Giannina,GR1,32,25.8,14,43.8,0,Stadio Zosimades,7652,0,2023
+2700,anzhi-makhachkala,Anzhi Makhachkala ( -2022),RU1,0,,0,,0,RDYuSSh MinObrNauki RD Politekh Makhachkala,1600,0,2018
+28095,fk-ufa,FK Ufa,RU1,26,24.4,3,11.5,0,Neftyanik,15132,+€4.84m,2021
+2999,hamilton-academical-fc,Hamilton Academical FC,SC1,28,22.8,9,32.1,0,Fountain of Youth Stadium,6018,0,2020
+3368,ud-levante,Levante UD,ES1,23,27.5,6,26.1,0,Ciutat de València,26354,+€7.80m,2021
+338,dynamo-kiew,Dynamo Kyiv,UKR1,26,24.4,3,11.5,8,Valeriy Lobanovsky Stadion,16873,+€1.20m,2023
+371,celtic-glasgow,Celtic FC,SC1,32,25.7,25,78.1,17,Celtic Park,60832,+€12.50m,2023
+506,juventus-turin,Juventus FC,IT1,26,26.6,14,53.8,17,Allianz Stadium,41507,€-21.60m,2023
+618,as-saint-etienne,AS Saint-Étienne,FR1,29,25.1,8,27.6,3,Stade Geoffroy-Guichard,42000,+€12.85m,2021
+6992,chornomorets-odessa,Chornomorets Odessa,UKR1,21,25.7,5,23.8,0,Stadion Chornomorets (2011),34164,0,2023
+820,genclerbirligi-ankara,Genclerbirligi Ankara,TR1,34,26.1,10,29.4,1,Eryaman Stadyumu,20560,+€195k,2020
+1083,fk-rostov,FK Rostov,RU1,26,25.2,2,7.7,7,Rostov Arena,45415,+€100k,2023
+1095,es-troyes-ac,ESTAC Troyes,FR1,29,23.1,16,57.1,5,Stade de l'Aube,21877,0,2022
+121,dinamo-moskau,Dynamo Moscow,RU1,27,25.8,11,40.7,10,VTB-Arena,25716,+€7.60m,2023
+1420,sco-angers,Angers SCO,FR1,27,24.2,12,44.4,5,Stade Raymond Kopa,19350,+€3.50m,2022
+16245,fk-sevastopol,FK Sevastopol (- 2014),UKR1,0,,0,,0,SK Sevastopol,5826,0,2013
+22110,fc-helsingor,FC Helsingör,DK1,23,24.6,4,17.4,1,Helsingør Ny Stadion,4000,+€320k,2017
+23826,rasenballsport-leipzig,RB Leipzig,L1,27,25.5,18,66.7,18,Red Bull Arena,47069,+€88.20m,2023
+24245,umraniyespor,Ümraniyespor,TR1,12,25.8,3,30,1,Ümraniye Belediyesi Şehir Stadı,3513,0,2022
+2687,fc-cadiz,Cádiz CF,ES1,28,29.1,8,28.6,2,Nuevo Mirandilla,21094,+€3.50m,2023
+2696,krylya-sovetov-samara,Krylya Sovetov Samara,RU1,27,25.5,7,25.9,6,Solidarnost Samara Arena,42347,€-1.23m,2023
+2919,ac-monza,AC Monza,IT1,30,26.9,11,36.7,3,U-Power Stadium - Brianteo,16917,€-41.50m,2023
+317,fc-twente-enschede,Twente Enschede FC,NL1,26,24.4,10,38.5,3,De Grolsch Veste,30205,+€7.10m,2023
+3209,pendikspor,Pendikspor,TR1,27,29.6,13,48.1,3,Pendik Stadı,2500,€-3.10m,2023
+339,dnipro-dnipropetrovsk,Dnipro Dnipropetrovsk (-2020),UKR1,0,,0,,0,Meteor,24381,0,2016
+3524,clermont-foot-63,Clermont Foot 63,FR1,24,26.9,15,62.5,6,Stade Gabriel-Montpied,13000,€-2.10m,2023
+398,lazio-rom,SS Lazio,IT1,29,27.3,17,58.6,10,Olimpico di Roma,73261,+€10.54m,2023
+4171,benevento-calcio,Benevento Calcio,IT1,31,26.7,16,51.6,2,Ciro Vigorito,16867,€-1.93m,2020
+418,real-madrid,Real Madrid,ES1,23,27.7,15,65.2,19,Santiago Bernabéu,81044,€-122.50m,2023
+49702,fk-nizhny-novgorod,FC Pari Nizhniy Novgorod,RU1,25,26.1,9,36,6,Nizhny Novgorod Stadium,44242,+€1.03m,2023
+54189,rwd-molenbeek,RWD Molenbeek,BE1,32,25.1,18,56.3,2,Edmond Machtensstadion,11000,€-25.45m,2023
+6574,us-sassuolo,US Sassuolo,IT1,27,26.5,16,59.3,10,Mapei Stadium - Città del Tricolore,21584,+€40.52m,2023
+7179,cd-tondela,CD Tondela,PO1,26,22.8,12,46.2,2,Estádio João Cardoso,5000,+€50k,2021
+720,fc-porto,FC Porto,PO1,28,26.5,18,64.3,8,Estádio do Dragão,50033,+€34.10m,2023
+738,ac-le-havre,Le Havre AC,FR1,29,25.1,16,55.2,6,Stade Océane,25178,€-2.90m,2023
+89,1-fc-union-berlin,1.FC Union Berlin,L1,28,27.4,16,57.1,12,Stadion An der Alten Försterei,22012,€-29.90m,2023
+940,celta-vigo,Celta de Vigo,ES1,24,26.7,11,45.8,8,Abanca Balaídos,29000,+€29.50m,2023
+1387,acn-siena-1904,Siena FC,IT1,20,25.5,2,10,0,Artemio Franchi,15373,0,2012
+1390,cagliari-calcio,Cagliari Calcio,IT1,30,27.4,14,46.7,9,Unipol Domus,16416,€-8.60m,2023
+1416,amiens-sc,Amiens SC,FR1,24,24.1,10,41.7,7,Stade Crédit Agricole la Licorne,12999,+€700k,2019
+1467,goztepe,Göztepe,TR1,31,23.3,10,32.3,0,Gürsel Aksel Stadyumu,19713,+€1.60m,2021
+167,fc-augsburg,FC Augsburg,L1,32,25.2,20,62.5,6,WWK ARENA,30660,+€17.45m,2023
+232,spartak-moskau,Spartak Moscow,RU1,27,25.6,9,33.3,13,Otkrytie Bank Arena,44571,€-19.50m,2023
+2420,vitoria-guimaraes-sc,Vitória Guimarães SC,PO1,30,25.3,13,43.3,3,Estádio D. Afonso Henriques,30029,+€16.26m,2023
+2424,gil-vicente-fc,Gil Vicente FC,PO1,28,24.8,17,60.7,3,Estádio Cidade de Barcelos,12046,+€7.90m,2023
+2439,kuban-krasnodar,Kuban Krasnodar (-2018),RU1,0,,0,,0,Kuban Stadium,31654,0,2015
+2703,spartak-vladikavkaz,Spartak Vladikavkaz (-2020),RU1,0,,0,,0,Republican Stadium Spartak,32464,0,2012
+289,afc-sunderland,Sunderland AFC,GB1,26,23.5,12,46.2,6,Stadium of Light,48707,€-6.06m,2016
+2921,delfino-pescara-1936,Delfino Pescara 1936,IT1,28,24.6,6,21.4,1,Adriatico,20476,+€4.60m,2016
+3,1-fc-koln,1.FC Köln,L1,31,25.6,8,25.8,6,RheinEnergieSTADION,50000,+€200k,2023
+3719,fk-khimki,FK Khimki,RU1,26,24.7,7,26.9,1,Arena Khimki,18636,€-595k,2022
+3729,arsenal-tula,Arsenal Tula,RU1,27,27.4,2,7.4,1,Arsenal,19241,+€1.80m,2021
+3840,adana-demirspor,Adana Demirspor,TR1,31,27.4,16,51.6,7,Yeni Adana Stadyumu,33000,+€750k,2023
+430,ac-florenz,ACF Fiorentina,IT1,31,25.1,16,51.6,13,Artemio Franchi,43147,+€21.25m,2023
+4482,volyn-lutsk,Volyn Lutsk,UKR1,0,,0,,0,Stadion Avangard,12080,0,2016
+48726,rukh-lviv,Rukh Lviv,UKR1,31,24,5,16.1,1,Arena Lviv,34725,0,2023
+5,ac-mailand,AC Milan,IT1,28,26.4,21,75,15,Giuseppe Meazza,75923,€-47.40m,2023
+512,stoke-city,Stoke City,GB1,24,26.7,9,37.5,6,bet365 Stadium,30089,+€17.00m,2017
+5818,hobro-ik,Hobro IK,DK1,22,24.8,4,18.2,2,DS Arena,7500,0,2019
+60949,volos-nps,Volos NPS,GR1,28,26.6,16,57.1,2,Panthessaliko Stadio,22700,0,2023
+678,aarhus-gf,Aarhus GF,DK1,28,25,11,39.3,3,Ceres Park,19433,+€11.93m,2023
+7775,hatayspor,Hatayspor,TR1,30,24.8,15,50,6,Mersin Stadyumu,25000,+€7.19m,2023
+826,rc-lens,RC Lens,FR1,29,26.1,15,51.7,12,Stade Bollaert-Delelis,38223,+€3.64m,2023
+8838,zirka-kropyvnytskyi,Zirka Kropyvnytskyi,UKR1,7,27.4,0,,0,Zirka,14628,0,2017
+897,deportivo-la-coruna,Deportivo de La Coruña,ES1,24,27.7,3,12.5,0,Abanca Riazor,32912,€-435k,2017
+987,motherwell-fc,Motherwell FC,SC1,22,26.3,15,68.2,5,Fir Park,13750,+€586k,2023
+1063,viborg-ff,Viborg FF,DK1,25,23.4,14,56,4,Viborg Stadion,10000,+€6.49m,2023
+1085,vitoria-setubal-fc,Vitória Setúbal FC,PO1,29,26,10,34.5,0,Estádio do Bonfim,18642,0,2019
+11,fc-arsenal,Arsenal FC,GB1,25,25.7,18,72,21,Emirates Stadium,60704,€-167.04m,2023
+126,caykur-rizespor,Caykur Rizespor,TR1,36,24.5,18,50,6,Çaykur Didi,15332,€-3.41m,2023
+1627,catania-calcio,Catania FC,IT1,27,26,5,18.5,0,Cibali - Angelo Massimino,20204,€-101k,2013
+16795,fc-granada,Granada CF,ES1,24,28.3,7,29.2,4,Nuevo Los Cármenes,19336,€-6.50m,2023
+204,lierse-sk,Lierse SK (- 2018),BE1,0,,0,,0,Herman Vanderpoortenstadion,14538,0,2014
+2227,sk-tavriya-simferopol,SK Tavriya Simferopol ( - 2022),UKR1,0,,0,,0,RS Lokomotiv,19978,0,2013
+2239,us-cremonese,US Cremonese,IT1,29,25.4,9,30,2,Giovanni Zini,16003,+€5.00m,2022
+252,genua-cfc,Genoa CFC,IT1,27,26.9,20,74.1,9,Luigi Ferraris,34901,€-17.38m,2023
+281,manchester-city,Manchester City,GB1,24,27.1,17,70.8,20,Etihad Stadium,55017,€-126.60m,2023
+3302,ud-almeria,UD Almería,ES1,25,25.6,13,52,5,Power Horse Stadium,18331,€-8.90m,2023
+39,1-fsv-mainz-05,1.FSV Mainz 05,L1,25,26.9,12,48,6,Mewa Arena,33305,+€14.55m,2023
+3999,pas-lamia-1964,PAS Lamia 1964,GR1,35,28.9,20,57.1,3,"Stadio Lamia ""Athanasios Diakos""",5500,0,2023
+405,aston-villa,Aston Villa,GB1,26,27.2,19,73.1,16,Villa Park,42682,€-60.45m,2023
+441,apollon-smyrnis,Apollon Smyrnis,GR1,27,27.3,15,55.6,0,Stadio Neas Smyrnis,11700,0,2021
+5219,aok-kerkyra,AOK Kerkyra,GR1,8,28.1,1,12.5,0,Ethniko Stadio Kerkyras,3000,0,2017
+543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,26,26.1,22,84.6,14,Molineux Stadium,32050,+€75.20m,2023
+60,sc-freiburg,SC Freiburg,L1,27,26.5,9,33.3,9,Europa-Park Stadion,34700,+€35.30m,2023
+61825,fk-minaj,FK Minaj,UKR1,27,25.5,1,3.7,0,Minaj-Arena,1312,€-60k,2023
+63007,lnz-lebedyn,LNZ Cherkasy,UKR1,26,28.6,0,,0,Cherkasy-Arena,10321,€-150k,2023
+660,shakhtar-donetsk,Shakhtar Donetsk,UKR1,34,24,11,32.4,17,Arena Lviv,34725,€-2.05m,2023
+6894,kayseri-erciyesspor,Kayseri Erciyesspor,TR1,0,,0,,0,Kayseri Atatürk Spor Kompleksi Yan Açık Saha,2000,0,2014
+6912,fc-vizela,FC Vizela,PO1,26,25.3,19,73.1,3,Estádio do Vizela,6565,+€1.80m,2023
+714,espanyol-barcelona,RCD Espanyol Barcelona,ES1,26,25.4,6,23.1,4,RCDE Stadium,40500,+€5.50m,2022
+798,sbv-excelsior-rotterdam,Excelsior Rotterdam,NL1,29,23.6,12,41.4,1,Van Donge & De Roo Stadion - Woudestein,4400,+€173k,2023
+862,chievo-verona,Chievo Verona,IT1,0,,0,,0,Marcantonio Bentegodi,31045,0,2018
+8970,frosinone-calcio,Frosinone Calcio,IT1,30,25.3,17,56.7,3,Benito Stirpe,16227,+€8.85m,2023
+9007,arsenal-kiew,Arsenal Kyiv,UKR1,0,,0,,0,NSK Olimpisky,70050,0,2018
+12321,fc-girona,Girona FC,ES1,25,27.1,11,44,6,Montilivi,13286,€-4.35m,2023
+1241,livingston-fc,Livingston FC,SC1,29,27.6,16,55.2,2,Tony Macaroni Arena,9512,0,2023
+127,sc-paderborn-07,SC Paderborn 07,L1,26,25.7,5,19.2,1,Home Deluxe Arena,15000,€-450k,2019
+19,brescia-calcio,Brescia Calcio,IT1,28,25.1,12,42.9,1,Mario Rigamonti,19550,+€3.65m,2019
+23,eintracht-braunschweig,Eintracht Braunschweig,L1,30,25.6,11,36.7,2,EINTRACHT-Stadion,23325,+€750k,2013
+33,fc-schalke-04,FC Schalke 04,L1,27,26.4,12,44.4,4,Veltins-Arena,62271,+€10.30m,2022
+350,sheffield-united,Sheffield United,GB1,30,25.9,18,60,8,Bramall Lane,32702,€-33.55m,2023
+3592,kryvbas-kryvyi-rig,Kryvbas Kryvyi Rig,UKR1,31,25.2,7,22.6,3,Girnyk,2500,+€560k,2023
+369,lyngby-bk,Lyngby BK,DK1,24,25.6,8,33.3,4,Lyngby Stadion,10000,+€2.20m,2023
+3725,akhmat-grozny,Akhmat Grozny,RU1,27,27.3,12,44.4,6,Akhmat-Arena,30200,€-950k,2023
+41201,pfk-tambov,PFK Tambov (-2021),RU1,0,,0,,0,Mordovia Arena,44149,0,2020
+472,ud-las-palmas,UD Las Palmas,ES1,26,27.1,8,30.8,3,Estadio de Gran Canaria,32400,€-4.80m,2023
+520,cercle-brugge,Cercle Brugge,BE1,24,23.6,15,62.5,4,Jan-Breydel-Stadion,29062,+€12.00m,2023
+6418,panetolikos-gfs,Panetolikos GFS,GR1,29,26,12,41.4,4,Gipedo Panetolikou,7321,0,2023
+653,ofi-kreta,OFI Crete FC,GR1,26,28.3,15,57.7,4,Gipedo Theodoros Vardinogiannis,9088,+€1.80m,2023
+6994,metalurg-zaporizhya-bis-2016-,Metalurg Zaporizhya (-2016),UKR1,0,,0,,0,Slavutych Arena,11883,0,2015
+7378,portimonense-sc,Portimonense SC,PO1,27,24.7,20,74.1,2,Portimonense Estádio,6000,+€3.45m,2023
+982,cd-nacional,CD Nacional,PO1,27,25,12,44.4,2,Estádio da Madeira,5586,0,2020
+1005,us-lecce,US Lecce,IT1,31,24,23,74.2,7,Ettore Giardiniero,31559,+€3.95m,2023
+1038,sampdoria-genua,UC Sampdoria,IT1,33,24.3,5,15.6,4,Luigi Ferraris,36348,+€1.75m,2022
+1091,paok-thessaloniki,PAOK Thessaloniki,GR1,29,27.1,21,72.4,8,Toumba Stadium,28703,+€6.55m,2023
+1210,as-livorno,US Livorno 1915,IT1,29,24.1,5,17.2,0,Armando Picchi,19238,0,2013
+1245,kas-eupen,KAS Eupen,BE1,29,24.3,19,65.5,6,Kehrweg-Stadion,8331,+€1.10m,2023
+1426,vvv-venlo,VVV-Venlo,NL1,28,22.9,7,25,0,Covebo Stadion - De Koel,8000,0,2020
+1533,sd-eibar,SD Eibar,ES1,26,28.3,5,19.2,0,Ipurua,8164,+€2.60m,2020
+180,fc-southampton,Southampton FC,GB1,29,24.5,20,69,13,St Mary's Stadium,32384,+€2.40m,2022
+19657,vendsyssel-ff,Vendsyssel FF,DK1,24,25.1,7,29.2,0,Nord Energi Arena,10000,€-20k,2018
+234,feyenoord-rotterdam,Feyenoord Rotterdam,NL1,27,24.2,14,51.9,16,"Stadion Feyenoord ""De Kuip""",47500,€-500k,2023
+2375,altay-sk,Altay SK,TR1,31,25.3,3,9.7,0,Alsancak Mustafa Denizli Stadı,15000,+€1.42m,2021
+2448,sporting-gijon,Sporting Gijón,ES1,28,26.2,10,35.7,2,El Molinón - Enrique Castro Quini,29029,+€5.23m,2016
+2741,baltika-kaliningrad,Baltika Kaliningrad,RU1,25,27,11,44,3,Rostech Arena,35000,€-1.05m,2023
+2783,metalurg-donetsk,Metalurg Donetsk (- 2015),UKR1,0,,0,,0,Metalurg,5090,0,2014
+3205,kayserispor,Kayserispor,TR1,30,25.9,14,46.7,6,RHG Enertürk Enerji Stadyumu,32864,0,2023
+3349,cd-feirense,CD Feirense,PO1,24,25,11,45.8,2,Estádio Marcolino de Castro,5401,+€325k,2018
+3385,panserraikos,Panserraikos,GR1,34,26.3,14,41.2,5,Dimotiko Gipedo Serron,9500,0,2023
+368,fc-sevilla,Sevilla FC,ES1,27,28.9,18,66.7,8,Ramón Sánchez-Pizjuán,43883,€-5.50m,2023
+38,fortuna-dusseldorf,Fortuna Düsseldorf,L1,29,25.9,12,41.4,2,MERKUR SPIEL-ARENA,54600,+€600k,2019
+3948,royale-union-saint-gilloise,Royale Union Saint-Gilloise,BE1,25,25.2,18,72,6,Stade Joseph Mariën,8000,+€19.15m,2023
+415,fc-toulouse,FC Toulouse,FR1,29,23.5,23,79.3,8,Stadium Municipal,33150,+€200k,2023
+416,fc-turin,Torino FC,IT1,26,25.3,21,80.8,14,Stadio Olimpico Grande Torino,28177,€-33.40m,2023
+417,ogc-nizza,OGC Nice,FR1,29,24.3,15,51.7,12,Allianz Riviera,36178,€-27.10m,2023
+44,hertha-bsc,Hertha BSC,L1,36,24.1,14,38.9,7,Olympiastadion Berlin,74667,+€6.70m,2022
+467,nec-nijmegen,NEC Nijmegen,NL1,28,24.3,11,39.3,1,Goffertstadion,12500,+€2.68m,2023
+53646,fk-polissya-zhytomyr,FK Polissya Zhytomyr,UKR1,27,26.8,6,22.2,1,Tsentralnyi Polissya,5928,€-750k,2023
+631,fc-chelsea,Chelsea FC,GB1,30,23.8,20,66.7,20,Stamford Bridge,40853,€-198.40m,2023
+749,fc-empoli,FC Empoli,IT1,29,25.9,12,41.4,8,Carlo Castellani,19847,+€40.80m,2023
+833,denizlispor,Denizlispor,TR1,27,25.8,3,11.1,1,Denizli Atatürk Stadı,18745,0,2020
+865,fc-midtjylland,FC Midtjylland,DK1,26,25.6,18,69.2,9,MCH Arena,11535,€-3.63m,2023
+10,arminia-bielefeld,Arminia Bielefeld,L1,27,25.3,15,55.6,4,SchücoArena,26515,+€5.90m,2021
+10484,kasimpasa,Kasimpasa,TR1,24,26,11,45.8,3,Recep Tayyip Erdoğan Stadyumu,13856,€-1.00m,2023
+1049,fc-valencia,Valencia CF,ES1,23,25,9,39.1,7,Mestalla,49430,+€14.00m,2023
+1053,aalborg-bk,Aalborg BK,DK1,27,24.5,10,37,0,Aalborg Portland Park,13800,+€350k,2022
+1075,sc-braga,SC Braga,PO1,26,27.8,15,57.7,7,Estádio Municipal de Braga,30286,€-6.70m,2023
+1269,pec-zwolle,PEC Zwolle,NL1,26,25.5,11,42.3,0,MAC³PARK stadion,14000,+€4.75m,2023
+132,nac-breda,NAC Breda,NL1,32,23.7,10,31.3,2,Rat Verlegh Stadion,19000,+€115k,2018
+2292,elazigspor,Elazigspor,TR1,28,25.3,0,,0,Elazığ Stadyumu,23000,0,2013
+27,fc-bayern-munchen,Bayern Munich,L1,25,26.7,13,52,18,Allianz Arena,75024,+€23.25m,2023
+2759,ross-county-fc,Ross County FC,SC1,27,26.3,15,55.6,1,Global Energy Stadium,6541,€-70k,2023
+2778,fc-nordsjaelland,FC Nordsjaelland,DK1,28,22.8,11,39.3,4,Right to Dream Park,10300,+€17.35m,2023
+29,fc-everton,Everton FC,GB1,25,27.3,11,44,6,Goodison Park,39571,+€42.30m,2023
+290,aj-auxerre,AJ Auxerre,FR1,26,24.3,15,55.6,6,Stade de l'Abbé-Deschamps,18541,0,2022
+30120,ae-kifisias,AE Kifisias,GR1,28,27.3,14,50,2,"Gipedo Kesarianis ""Michalis Kritikopoulos""",0,0,2023
+306,sc-heerenveen,SC Heerenveen,NL1,23,24.6,11,47.8,4,Abe Lenstra Stadion,27224,+€3.10m,2023
+3268,casa-pia-ac,Casa Pia AC,PO1,27,25.9,15,55.6,5,Estádio Municipal de Rio Maior,6925,+€2.28m,2023
+347,fc-metz,FC Metz,FR1,30,25.3,22,73.3,10,Stade Saint-Symphorien,28786,+€23.10m,2023
+3714,enisey-krasnoyarsk,Enisey Krasnoyarsk,RU1,26,25.6,2,7.7,1,Zentralstadion Krasnoyarsk,15000,+€601k,2018
+399,leeds-united,Leeds United,GB1,27,24.6,18,66.7,9,Elland Road,37890,+€930k,2022
+4083,fc-crotone,FC Crotone,IT1,25,27,6,24,1,Ezio Scida,16640,+€3.90m,2020
+465,st-mirren-fc,St. Mirren FC,SC1,22,26.4,17,77.3,5,The SMISA Stadium,8023,€-146k,2023
+48332,kolos-kovalivka,Kolos Kovalivka,UKR1,28,27.1,4,14.3,0,Kolos,5050,+€300k,2023
+533,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,L1,30,26.1,13,43.3,12,PreZero Arena,30150,€-7.30m,2023
+58,rsc-anderlecht,RSC Anderlecht,BE1,26,26,14,53.8,11,Lotto Park,21500,+€9.50m,2023
+607,venezia-fc,Venezia FC,IT1,27,25.6,17,63,5,Pier Luigi Penzo,11150,+€4.83m,2021
+68608,cf-os-belenenses,CF Os Belenenses,PO1,30,25.7,5,16.7,0,Estádio do Restelo,19980,0,2017
+724,fc-volendam,FC Volendam,NL1,29,22.8,14,48.3,3,Kras Stadion,7384,+€1.80m,2023
+800,atalanta-bergamo,Atalanta BC,IT1,25,27.1,17,68,15,Gewiss Stadium,21747,+€87.00m,2023
+979,moreirense-fc,Moreirense FC,PO1,26,26,17,65.4,2,Estádio C. J. de Almeida Freitas,6153,€-2.05m,2023
+984,west-bromwich-albion,West Bromwich Albion,GB1,25,27.8,8,32,4,The Hawthorns,26850,€-1.35m,2020
